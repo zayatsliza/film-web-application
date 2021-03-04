@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yurpo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yurpo\\.nuget\\packages"
+    ]
+  }
+}
